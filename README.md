@@ -1,4 +1,4 @@
-**LEC-9: SQL in 1-Video  ![](Aspose.Words.2b146dd1-c150-410b-a4fd-cb35fbbe59bc.001.jpeg)**
+**SQL**
 
 1. **SQL**: Structured Query Language, used to access and manipulate data. 
 1. SQL used **CRUD** operations to communicate with DB. 
@@ -180,7 +180,7 @@ SELECT ucase(); etc.
 
 **CONSTRAINTS (DDL)** 1. **Primary Key**
 
-![](Aspose.Words.2b146dd1-c150-410b-a4fd-cb35fbbe59bc.002.jpeg)
+![Alt text](Aspose.Words.2b146dd1-c150-410b-a4fd-cb35fbbe59bc.002.jpeg)
 
 1. PK is not null, unique and only one per table.
 2. **Foreign Key**
